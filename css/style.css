@@ -1003,7 +1003,7 @@ div#preloader {
 /*--------------------------------*/
 
 .reviews-area {
-  background: url(../img/background/bgGirls1.jpg);
+  /* background: url(../img/background/bgGirls1.jpg); */
   overflow: hidden;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1019,7 +1019,7 @@ div#preloader {
 }
 
 .work-left-text {
-  width: 50%;
+  width: auto;
 }
 
 .work-right-text {
